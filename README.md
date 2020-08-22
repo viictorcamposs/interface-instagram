@@ -5,7 +5,7 @@
 
 <p> Recriando interface de login do Instagram junto com a <strong>Gabriela Pinheiro</strong>, na Digital Innovation One Labs.
 <p>
-    Criando do projeto:
+    Criadora do projeto:
     <strong>Gabriel Pinheiro</strong> -
     <a href="https://www.linkedin.com/in/gabrielapinheiro129/">
         Linkedin
